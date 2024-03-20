@@ -1,0 +1,12 @@
+C:\Users\rickr\source\repos\Contact\publish_output\Contact.exe
+C:\Users\rickr\source\repos\Contact\publish_output\appsettings.Development.json
+C:\Users\rickr\source\repos\Contact\publish_output\appsettings.json
+C:\Users\rickr\source\repos\Contact\publish_output\Contact.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Contact.runtimeconfig.json
+C:\Users\rickr\source\repos\Contact\publish_output\Contact.pdb
+C:\Users\rickr\source\repos\Contact\publish_output\Microsoft.EntityFrameworkCore.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Npgsql.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rickr\source\repos\Contact\publish_output\Contact.deps.json

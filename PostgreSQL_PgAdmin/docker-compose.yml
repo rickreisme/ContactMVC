@@ -1,0 +1,28 @@
+# Use postgres/example user/password credentials
+version: '3.1'
+
+services:
+
+  postgresql:
+    container_name: postgresql_database1
+    image: postgres:15.0
+    #restart: always                    # (enable to turn on at the start)
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: dbuser
+      POSTGRES_PASSWORD: dbpassword
+    volumes:
+      - my-db:/var/lib/postgresql
+  
+  pgadmin:
+    container_name: pgadmin1
+    image: dpage/pgadmin4
+    # restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: dbpassword
+    ports:
+      - 8080:80
+volumes:
+  my-db:
