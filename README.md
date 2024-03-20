@@ -1,4 +1,4 @@
-# ContacMVC
+# ContactMVC
 
 - Essa é uma aplicação ASP.NET Core MVC que aplica operações CRUD em um sistema de cadastro, listagem, edição e remoção de contatos. Foi utilizado o .NET 8 no Visual Studio 2022 e o PostgreSQL como banco de dados para armazenamento dos contatos. Este projeto foi feito como parte dos meus estudos de C# e .NET.
 
